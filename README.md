@@ -12,7 +12,7 @@
 
 -	Every time this Script is executed, the webcam is accessed and open.
 -	Now, the user can adjust the distance between his thumb finger tip and index finger tip.
--	Correspondin to every distance the volume is set.
+-	Corresponding to every distance the volume is set.
 
 ## Requirements:
 In order to run the Script, the require **Python & openCV** and you can install the requirements using command :
@@ -27,7 +27,7 @@ git clone https://github.com/JasonHrangkhol/Gesture-Volume-Control.git
 ```
 **OR**
 Zip Download the Repository and Extract it's contents.
--	Now run the [SudokuGUI]() file directly in your Terminal using
+-	Now run the [VolumeControl]() file directly in your Terminal using
 ```
 python volumeControl.py
 ```
